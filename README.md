@@ -6,3 +6,4 @@ I am studying Computer Science, Theater Technology and Design, as well as Econom
 
 I posses skills in Computer Science (C++, Object-Oriented Programming (OOP), and Java), have hands on experience in theatrical technology and production, and am an avid cyclist with customer service experience as a salesman and mechanic in the cycling industry. 
 
+[About](./about.html)
