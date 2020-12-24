@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: [Benjamin Douglas]
-description: [Home](/)    [About](./about.html)    [CV](./CV.html)    [Portfolio](./portfolio.html) 
+
 defaults: 
   -
     scope:
