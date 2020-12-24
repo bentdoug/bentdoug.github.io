@@ -13,4 +13,6 @@ I posses skills in Computer Science (C++, Object-Oriented Programming (OOP), and
 
 [Experience](./experience)
 
+[Classes](./classes)
+
 [Portfolio](./portfolio.html)
