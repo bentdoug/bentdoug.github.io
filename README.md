@@ -1,7 +1,7 @@
 ## Benjamin Douglas
 
 #### Links
-[My GitHub](https://github.com/bentdoug)    [My LinkedIn](www.linkedin.com/in/benjamin-douglas-1a761518b)
+[My GitHub](https://github.com/bentdoug)    [My LinkedIn](https://linkedin.com/in/benjamin-douglas-1a761518b)
 
 ### Overview
 
