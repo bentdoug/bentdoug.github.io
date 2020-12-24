@@ -1,5 +1,8 @@
 ## Benjamin Douglas
 
+#### Links
+[My GitHub](https://github.com/bentdoug)    
+
 ### Overview
 
 I am studying Computer Science, Theater Technology and Design, as well as Economics at Ursinus College. I am passionate about my fields of study and enjoy tirelessly working towards a goal and making it a reality. I am interested in finding new ways to implement advances in Computer Science throughout our daily lives, economics, as well as the theatrical industry.
