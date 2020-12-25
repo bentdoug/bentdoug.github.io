@@ -8,18 +8,18 @@ description: Courses I've completed
 
 | Course Section | Course Title | Letter Grade Recieved |
 |---|---|---|
-| CS-174 | [Object-Oriented Programming](courseDescriptions\freshmanYear.md(#ursinus-cS-174:-object-oriented-programming)) | A |
-| ECON-102 | Macroeconomics | A |
-| LAT-101 | Elementary Latin | |
-| CIE-100 | CIE 100 (Common Intellectual Experience) | P |
-| THEA-275 | Perf & Production | P |
+| CS-174 | [Object-Oriented Programming](courseDescriptions\freshmanYear.html) | A |
+| ECON-102 | [Macroeconomics](courseDescriptions\freshmanYear.html) | A |
+| LAT-101 | [Elementary Latin](courseDescriptions\freshmanYear.html) | |
+| CIE-100 | [CIE 100 (Common Intellectual Experience)](courseDescriptions\freshmanYear.html) | P |
+| THEA-275 | [Perf & Production](courseDescriptions\freshmanYear.html) | P |
 
 ### Planned Courses
 #### Spring 2021 Semester
 
 | Course Section | Course Title |
 |---|---|
-| CS-371W | Data Structures |
-| THEA-240 | Sound Design |
-| LAT-102 | Elementary Latin |
-| CIE-200 | CIE 200 (Common Intellectual Experience) |
+| CS-371W | [Data Structures](courseDescriptions\freshmanYear.html#second-semester) |
+| THEA-240 | [Sound Design](courseDescriptions\freshmanYear.html#second-semester) |
+| LAT-102 | [Elementary Latin](courseDescriptions\freshmanYear.html#second-semester) |
+| CIE-200 | [CIE 200 (Common Intellectual Experience)](courseDescriptions\freshmanYear.html#second-semester) |
