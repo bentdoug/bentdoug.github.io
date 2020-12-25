@@ -1,6 +1,6 @@
 ## Benjamin Douglas
 
-![Headshot](headshotcircular.png)
+![Headshot](photos\headshotcircular.png)
 
 #### Connect
 
