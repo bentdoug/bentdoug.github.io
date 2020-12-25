@@ -4,9 +4,9 @@ title: Freshman Year
 description: My Freshman Year Courses
 ---
 
-## Freshman Year  
+## Freshman Year (Fall 2020 - Spring 2021)
 
-### First Semester (Fall 2020)  
+### First Semester
 
 #### Ursinus CS-174: Object Oriented Programming
 
