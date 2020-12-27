@@ -3,9 +3,9 @@ layout: default
 title: Portfolio
 description: 
 ---
-<p align="center">
-  [Home](index.md)>
-</p>
+
+  [Home](index.md)
+
 
 
 ## Portfolio
