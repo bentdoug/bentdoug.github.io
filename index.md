@@ -6,7 +6,7 @@ description:
 
 ## Benjamin Douglas
 
-![Headshot](headshotcircular.png)
+![Headshot](photos\headshotcircular.png)
 
 I am a Computer Science, Theater Technology and Design, and Economics student from New Jersey studying at Ursinus College in Collegeville, PA. Below, you can find more information about me, my experience, and my projects.
 
