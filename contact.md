@@ -9,9 +9,9 @@ title: Contact Me!
 
 ### Feel Free to Reach Out to Me!
 
-:email: bendoug3@gmail.com
+**Email** bendoug3@gmail.com
 
-:phone: (201)-403-8995
+**Email** (201)-403-8995
 
 [![LinkedIn Logo](photos\LI-In-Bug.png)](https://linkedin.com/in/benjamin-douglas-1a761518b)   
 
