@@ -12,6 +12,7 @@ description: Class and Personal Projects
 
 #### Drawing With Recursion
 ![Sierpiński triangle](bentdoug.github.io\CS-174 Portfolio\recursivedrawingresult.png)
+![Sierpiński triangle](https://github.com/bentdoug/bentdoug.github.io/blob/main/CS-174%20Portfolio/recursivedrawingresult.png?raw=true)
 
 Using recursion and a simple program that creates shapes in a bitmap, I was able to recreate the Sierpiński triangle in just six lines of code.
 
