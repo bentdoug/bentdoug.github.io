@@ -3,6 +3,7 @@ Layout: Default
 title: Courses
 description: Courses I've completed
 ---
+[Home](index.md)
 
 ### Completed Courses
 

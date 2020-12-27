@@ -10,7 +10,7 @@ description: My Freshman Year Courses
 
 #### Ursinus CS-174: Object Oriented Programming
 
-**Description:** Object-Oriented Programming A continuation of CS-173. More detailed exploration of classes and instances, and an introduction to collection classes such as vectors, lists, maps and sets. Larger programs and/or team projects.
+**Description:** Object-Oriented Programming A continuation of CS-173. More detailed exploration of classes and instances, and an introduction to collection classes such as vectors, lists, maps and sets. Larger programs and/or team projects. This class was taught in both Java and C++.
 
 #### Ursinus ECON-102: Macroeconomics
 
@@ -36,7 +36,7 @@ This semester, I earned these credits through my contributions to the Ursinus Th
 
 #### Ursinus CS-371W: Data Structures
 
-**Description:** Data Structures and Algorithms. Introduction to algorithm analysis and data structures. Complexity of algorithms, analyzing basic data structure operations, searching and sorting algorithms, tables, hashing, recursion, tree and graph algorithms.
+**Description:** Data Structures and Algorithms. Introduction to algorithm analysis and data structures. Complexity of algorithms, analyzing basic data structure operations, searching and sorting algorithms, tables, hashing, recursion, tree and graph algorithms. This class is taught in Python.
 
 #### Ursinus THEA-240: Sound Design
 
