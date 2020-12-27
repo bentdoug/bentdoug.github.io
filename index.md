@@ -4,7 +4,7 @@ title: Welcome!
 description: 
 ---
 
-## Benjamin Douglas
+## Welcome!
 
 ![Headshot](photos\headshotcircular.png)
 

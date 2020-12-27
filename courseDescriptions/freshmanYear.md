@@ -4,6 +4,8 @@ title: Freshman Year
 description: My Freshman Year Courses
 ---
 
+[Home](https://bentdoug.github.io/index.html)
+
 ## Freshman Year (Fall 2020 - Spring 2021)
 
 ### First Semester

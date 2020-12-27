@@ -3,7 +3,7 @@ layout: default
 title: Economics Portfolio
 ---
 
-[Home](index.html)
+[Home](https://bentdoug.github.io/index.html)
 
 ### Macroeconomics Final Paper:
 ####    - U.S 2021 Economic Prediction

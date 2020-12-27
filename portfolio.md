@@ -4,7 +4,7 @@ title: Portfolio
 description: 
 ---
 
-  [Home](index.md)
+  [Home](https://bentdoug.github.io/index.html)
 
 
 
@@ -20,4 +20,4 @@ Click [**here**](portolios\extra.html) to view awards and recognition I have ear
 
 
 
-[Home](index.html)       [Contact](index.html#connect)
+[--Home--](https://bentdoug.github.io/index.html)       [--Contact--](https://bentdoug.github.io/contact.html)

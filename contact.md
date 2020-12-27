@@ -3,7 +3,7 @@ layout: default
 title: Contact Me!
 ---
 
-[Home](index.html)
+[Home](https://bentdoug.github.io/index.html)
 
 ![Headshot](headshotcircular.png)
 

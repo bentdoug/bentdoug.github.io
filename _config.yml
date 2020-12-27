@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-
+title: Benjamin Douglas
+description: Last Eddited 12/26/2020
 defaults: 
   -
     scope:

@@ -3,7 +3,7 @@ Layout: Default
 title: Courses
 description: Courses I've completed
 ---
-[Home](index.html)
+[Home](https://bentdoug.github.io/index.html)
 
 ### Completed Courses
 
