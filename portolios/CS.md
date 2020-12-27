@@ -16,7 +16,7 @@ description: Class and Personal Projects
 Using recursion and a simple program that creates shapes in a bitmap, I was able to recreate the Sierpiński triangle in just six lines of code.
 
 #### Synonym and Vowel Filtering in Audio
-![Filtered Audio](https://github.com/bentdoug/bentdoug.github.io/blob/main/CS-174%20Portfolio/femalecountdown_vowels.mp3?raw=true)
+[Filtered Audio](https://github.com/bentdoug/bentdoug.github.io/blob/main/CS-174%20Portfolio/femalecountdown_vowels.mp3?raw=true)
 
 Utalizing pointers, arrays, and loops in c++, I was able to implement a "filtering" method which was able to filter out synonyms or vowels from an audio clip. An example of the filtered audio can be found above.
 
@@ -24,13 +24,19 @@ Utalizing pointers, arrays, and loops in c++, I was able to implement a "filteri
 ![Processed Road](https://github.com/bentdoug/bentdoug.github.io/blob/main/CS-174%20Portfolio/RoadDetection-Threads/edges.png?raw=true)
 
 Times before Threads and Syncronization - 
+
 Run 1 - BUILD SUCCESSFUL (total time: 14 seconds)
+
 Run 2 - BUILD SUCCESSFUL (total time: 11 seconds)
+
 Run 3 - BUILD SUCCESSFUL (total time: 12 seconds)
 
 Times post Threads and Syncrinization - 
+
 Run 1 - BUILD SUCCESSFUL (total time: 5 seconds)
+
 Run 2 - BUILD SUCCESSFUL (total time: 5 seconds)
+
 Run 3 - BUILD SUCCESSFUL (total time: 4 seconds)
 
 
