@@ -25,8 +25,6 @@ I am a Computer Science, Theater Technology and Design, and Economics student fr
 
 [About](./about.html)
 
-[Experience](https://linkedin.com/in/benjamin-douglas-1a761518b)
-
 [Classes](./courses)
 
 [Portfolio](./portfolio.html)
