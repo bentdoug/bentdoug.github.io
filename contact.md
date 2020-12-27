@@ -3,6 +3,8 @@ layout: default
 title: Contact Me!
 ---
 
+[Home](index.html)
+
 ![Headshot](headshotcircular.png)
 
 ### Feel Free to Reach Out to Me!

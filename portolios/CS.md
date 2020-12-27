@@ -4,7 +4,7 @@ title: Computer Science Portfolio
 description: Class and Personal Projects
 ---
 
-[Home](index.md)
+[Home](index.html)
 
 ## Portfolio
 
@@ -56,4 +56,3 @@ This was a fun, open-ended project in which I utalized the HashMap data structur
 
 
 
-[Back](./)

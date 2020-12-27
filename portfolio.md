@@ -10,14 +10,14 @@ description:
 
 ## Portfolio
 
-Click [**here**](portolios\CS.md) to view my Computer Science Portolio!
+Click [**here**](portolios\CS.html) to view my Computer Science Portolio!
 
-Click [**here**](portolios\econ.md) to view my Economics work!
+Click [**here**](portolios\econ.html) to view my Economics work!
 
-Click [**here**](portolios\extra.md) to view awards and recognition I have earned!
-
-
+Click [**here**](portolios\extra.html) to view awards and recognition I have earned!
 
 
 
-[Back](./)      [Home](index.md)       [Contact](index.md#connect)
+
+
+[Home](index.html)       [Contact](index.html#connect)
