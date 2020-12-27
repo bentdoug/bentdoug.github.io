@@ -45,6 +45,7 @@ This project utalized my knowledge of class declarations, polymorphism, and inhe
 ![forest Fire](https://github.com/bentdoug/bentdoug.github.io/blob/main/CS-174%20Portfolio/deques_forestFires/dequefiregif.gif?raw=true)
 
 This project communicates the benefits of utalizing the appropriate collection method for algorithm implementation, in this case Breadth-First Search.  Upon creating my own implementation of a Deque, I was able to use this data structure to run a forest fire simulation program which utalized Breadth-First Search to create what is seen above, an example of how forest fires can spread quickly to the trees directly around them.
+You can see this projects repo [**here!**](https://github.com/bentdoug/bentdoug.github.io/tree/main/CS-174%20Portfolio/deques_forestFires)
 
 #### Creating a Virtual City
 ![Cowville](https://github.com/bentdoug/bentdoug.github.io/blob/main/CS-174%20Portfolio/cowville.PNG?raw=true)
@@ -55,6 +56,6 @@ This project served as a way to brush up on my knowledge of methods and how they
 [See Code Here](https://github.com/bentdoug/bentdoug.github.io/tree/main/CS-174%20Portfolio/chooseYourOwnAdventure)
 
 This was a fun, open-ended project in which I utalized the HashMap data structure in order to create my own Choose Your Own Adventure story and application.  I was able to create a short murder mystery with steps along the way for the reader to choose their next step which all impacted the end result of the plot.
-
+You can see this projects repo [**here!**](https://github.com/bentdoug/bentdoug.github.io/tree/main/CS-174%20Portfolio/chooseYourOwnAdventure)
 
 
