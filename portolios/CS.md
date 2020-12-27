@@ -11,17 +11,17 @@ description: Class and Personal Projects
 ### CS-174
 
 #### Drawing With Recursion
-![Sierpińskitriangle](CS-174 Portfolio\recursivedrawingresult.png)
+![Sierpiński triangle](CS-174 Portfolio\recursivedrawingresult.png)
 
 Using recursion and a simple program that creates shapes in a bitmap, I was able to recreate the Sierpiński triangle in just six lines of code.
 
 #### Synonym and Vowel Filtering in Audio
-[FilteredAudio](CS-174 Portfolio\femalecountdown_vowels.mp3)
+![Filtered Audio](CS-174 Portfolio\femalecountdown_vowels.mp3)
 
 Utalizing pointers, arrays, and loops in c++, I was able to implement a "filtering" method which was able to filter out synonyms or vowels from an audio clip. An example of the filtered audio can be found above.
 
 #### Using Threads to Efficiently Detect Roads
-![ProcessedRoad](CS-174 Portfolio\RoadDetection-Threads\edges.png)
+![Processed Road](CS-174 Portfolio\RoadDetection-Threads\edges.png)
 
 Times before Threads and Syncronization - 
 Run 1 - BUILD SUCCESSFUL (total time: 14 seconds)
@@ -37,11 +37,11 @@ Run 3 - BUILD SUCCESSFUL (total time: 4 seconds)
 I was able to significantly increase the efficiency and speed up a program that was detecting major angles on a road for possible use in a self driving car scenario.  This was done by "deviding and conquering" using Threads and Syncronization.  Program processing time on average, was made 61% faster.
 
 #### COVID-19 Simulation and Polymorphism
-![covidSimulation](CS-174 Portfolio\covidpolymorphism.gif)
+![covid Simulation](CS-174 Portfolio\covidpolymorphism.gif)
 This project utalized my knowledge of class declarations, polymorphism, and inheritance in order to create the basic simulation you see above. It shows how COVID-19 can spread throughout a community complete with Nurses (people with the ability to heal others) as well as COVIDiots (people not taking it seriously and traveling without concern for the virus).
 
 #### Duque Utalization, Breadth-First Algorithm, and Forest Fire Simulations
-![forestFire](CS-174 Portfolio\deques_forestFires\dequefiregif.gif)
+![forest Fire](CS-174 Portfolio\deques_forestFires\dequefiregif.gif)
 
 This project communicates the benefits of utalizing the appropriate collection method for algorithm implementation, in this case Breadth-First Search.  Upon creating my own implementation of a Deque, I was able to use this data structure to run a forest fire simulation program which utalized Breadth-First Search to create what is seen above, an example of how forest fires can spread quickly to the trees directly around them.
 
