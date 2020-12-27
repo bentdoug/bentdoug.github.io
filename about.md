@@ -10,7 +10,7 @@ Hello!  I'm Benjamin Douglas, but you can call me Ben.  I am a Computer Science,
 I posses skills in Computer Science (C++, Object-Oriented Programming (OOP), and Java), have hands on experience in theatrical technology and production, and am an avid cyclist with customer service experience as a salesman and mechanic in the cycling industry. 
 
 ## Resume
-![MyResume](Resume-Benjamin-Douglas-12.18.2020.pdf)
+[MyResume](Resume-Benjamin-Douglas-12.18.2020.pdf)
 
 
 
