@@ -5,15 +5,17 @@ description: Courses I've completed
 ---
 [Home](https://bentdoug.github.io/index.html)
 
+## GDP: **TBD**
+
 ### Completed Courses
 
 | Course Section | Course Title | Letter Grade Recieved |
 |---|---|---|
 | CS-174 | [Object-Oriented Programming](courseDescriptions\freshmanYear.html#first-semester) | A |
 | ECON-102 | [Macroeconomics](courseDescriptions\freshmanYear.html#first-semester) | A |
-| LAT-101 | [Elementary Latin](courseDescriptions\freshmanYear.html#first-semester) | |
-| CIE-100 | [CIE 100 (Common Intellectual Experience)](courseDescriptions\freshmanYear.html#first-semester) | P |
-| THEA-275 | [Perf & Production](courseDescriptions\freshmanYear.html#first-semester) | P |
+| LAT-101 | [Elementary Latin](courseDescriptions\freshmanYear.html#first-semester) | A |
+| CIE-100 | [CIE 100 (Common Intellectual Experience)](courseDescriptions\freshmanYear.html#first-semester) | P (Pass/Fail) |
+| THEA-275 | [Perf & Production](courseDescriptions\freshmanYear.html#first-semester) | A |
 
 ### Planned Courses
 #### Spring 2021 Semester
