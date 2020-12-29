@@ -5,7 +5,7 @@ description: Courses I've completed
 ---
 [Home](https://bentdoug.github.io/index.html)
 
-## GDP: **TBD**
+## GPA: **4.0**
 
 ### Completed Courses
 

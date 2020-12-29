@@ -32,4 +32,4 @@ I am a Computer Science, Theater Technology and Design, and Economics student fr
 
 
 ## Resume
-<iframe src="https://onedrive.live.com/embed?cid=81A2BDCFB285FA4B&amp;resid=81A2BDCFB285FA4B%219493&amp;authkey=AIYtgRdgUPJFH6E&amp;em=2" width="600px" height="750px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=81A2BDCFB285FA4B&amp;resid=81A2BDCFB285FA4B%219493&amp;authkey=AIYtgRdgUPJFH6E&amp;em=2" width="650px" height="750px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
