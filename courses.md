@@ -9,6 +9,8 @@ description: Courses I've completed
 
 ### Completed Courses
 
+#### Fall 2020 Semester
+
 | Course Section | Course Title | Letter Grade Recieved |
 |---|---|---|
 | CS-174 | [Object-Oriented Programming](courseDescriptions\freshmanYear.html#first-semester) | A |
