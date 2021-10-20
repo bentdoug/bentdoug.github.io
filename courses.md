@@ -29,6 +29,7 @@ description: Courses I've completed
 
 ### Planned Courses
 #### Fall 2021 Semester
+
 | Course Section | Course Title | Letter Grade Recieved |
 |---|---|---|
 | CS-275 | [Software Engineering](courseDescriptions\sophomoreYear.html#first-semester) | IN-PROGRESS |
