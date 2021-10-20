@@ -11,7 +11,7 @@ Here you can see my work from various classes as well as a compilation of some o
 
 ### [CS-174 Portfolio](https://github.com/bentdoug/bentdoug.github.io/blob/main/portolios/CS174.md)
 
-### [CS-375 Portfolio](https://github.com/bentdoug/bentdoug.github.io/blob/main/portolios/CS375.md)
+### [CS-371 Portfolio](https://github.com/bentdoug/bentdoug.github.io/blob/main/portolios/CS375.md)
 
 ### [✨ Highlights ✨](https://github.com/bentdoug/bentdoug.github.io/blob/main/portolios/CSHighlights.md)
 
