@@ -54,4 +54,4 @@ This semester, I earned these credits through my contributions to the Ursinus Th
 
 #### Ursinus THEA-375: Advanced Design & Technology
 
-**Description:** This course focuses on a specific topic at an advanced theoretical or critical level within theater not covered in other courses in the curriculum. This semester, I completed this  course through my work with the Ursinus Theater Department's production of <em>Kissing the Whitch<em>. For this production, I worked on content creation, animation, and projection mapping for the aspects of the show that were portrayed through projected animation.
+**Description:** This course focuses on a specific topic at an advanced theoretical or critical level within theater not covered in other courses in the curriculum. This semester, I completed this  course through my work with the Ursinus Theater Department's production of <em> Kissing the Whitch. </em> For this production, I worked on content creation, animation, and projection mapping for the aspects of the show that were portrayed through projected animation.
